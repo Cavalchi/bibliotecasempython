@@ -1,0 +1,57 @@
+NumPy: Esta biblioteca é usada para computação científica. Ela fornece um objeto de matriz multidimensional, várias funções matemáticas derivadas para operações com matrizes, ferramentas para integrar código C/C++ e Fortran, e recursos para álgebra linear, transformada de Fourier e números aleatórios.
+
+Pandas: Esta é uma biblioteca de manipulação e análise de dados. Ela fornece estruturas de dados e funções necessárias para manipular e analisar dados estruturados.
+
+Matplotlib: Esta biblioteca é usada para criar visualizações estáticas, animadas e interativas em Python. Ela pode ser usada para criar gráficos de linhas, barras, erros, histogramas, gráficos de dispersão, etc.
+
+Scikit-learn: Esta é uma biblioteca de aprendizado de máquina. Ela fornece algoritmos de classificação, regressão, clustering, e redução de dimensionalidade, bem como ferramentas para pré-processamento de dados, seleção e avaliação de modelos.
+
+TensorFlow: Esta é uma biblioteca de aprendizado profundo. Ela permite que os desenvolvedores criem e treinem redes neurais. Foi desenvolvida pelo Google Brain Team.
+
+Flask: Esta é uma biblioteca para desenvolvimento web. Ela é um microframework que permite desenvolver aplicações web.
+
+Django: Esta é outra biblioteca para desenvolvimento web. Ela é um framework de alto nível que encoraja o desenvolvimento rápido de aplicações web, e é focada na reutilização e na conectividade de componentes.
+
+Requests: Esta biblioteca é usada para fazer solicitações HTTP. Ela abstrai as complexidades de fazer solicitações por trás de uma API simples, permitindo que você envie solicitações HTTP com apenas algumas linhas de código.
+
+BeautifulSoup: Esta biblioteca é usada para extrair dados de arquivos HTML e XML. Ela funciona com o analisador para fornecer meios de navegar, pesquisar e modificar a árvore de análise.
+
+SciPy: Esta é uma biblioteca para matemática, ciência e engenharia. Ela fornece módulos para otimização, álgebra linear, integração, interpolação, funções especiais, FFT, processamento de sinais e imagens, resolução de equações diferenciais ordinárias e muito mais.
+
+Seaborn: Esta é uma biblioteca de visualização de dados baseada em Matplotlib. Ela fornece uma interface de alto nível para desenhar gráficos estatísticos atraentes e informativos.
+
+NLTK (Natural Language Toolkit): Esta é uma biblioteca para trabalhar com dados de linguagem humana. Ela fornece interfaces fáceis de usar para mais de 50 corpora e recursos lexicais, como WordNet, e também inclui uma suíte de bibliotecas de processamento de texto para classificação, tokenização, stemming, tagging, parsing e semântica lógica.
+
+Keras: Esta é uma biblioteca de aprendizado profundo. Ela permite a rápida prototipagem de redes neurais através de sua interface de alto nível e é capaz de rodar em cima de TensorFlow, CNTK ou Theano.
+
+PyTorch: Esta é outra biblioteca de aprendizado profundo. Ela permite a criação de redes neurais dinâmicas com forte suporte para GPU.
+
+OpenCV: Esta é uma biblioteca para processamento de imagens e visão computacional. Ela fornece ferramentas para processamento de imagens, detecção de características, detecção de rosto, detecção de objetos, machine learning, stitching de imagens, rastreamento de vídeo, etc.
+
+Pillow: Esta é uma biblioteca para processamento de imagens. Ela é um fork do PIL (Python Imaging Library) e adiciona alguns recursos amigáveis ao usuário e suporte para uma ampla gama de imagens.
+
+Tkinter: Esta é uma biblioteca para criar interfaces gráficas de usuário (GUIs). Ela é a biblioteca padrão de GUI para Python e é fácil de usar para criar programas simples de GUI.
+
+Pygame: Esta é uma biblioteca para fazer jogos. Ela fornece módulos para lidar com gráficos, som, entrada de usuário e muito mais.
+
+SQLAlchemy: Esta é uma biblioteca para interação com bancos de dados. Ela fornece uma maneira completa e consistente de interagir com bancos de dados SQL e também fornece um ORM de alto nível
+
+Bokeh: Esta é uma biblioteca de visualização interativa que se destina a uso em navegadores modernos. É bom para criar gráficos interativos, dashboards e aplicações de dados.
+
+Scrapy: Esta é uma biblioteca para rastreamento de web (web crawling) e raspagem de web (web scraping). É útil para coletar dados estruturados a partir de websites.
+
+Tweepy: Esta é uma biblioteca para acessar a API do Twitter. Ela simplifica o processo de conectar-se à API do Twitter e enviar, receber e processar tweets.
+
+PyQT ou Tkinter: Estas são bibliotecas para desenvolvimento de GUI (Graphical User Interface). Elas permitem a criação de aplicativos com uma interface gráfica completa.
+
+Biopython: Esta é uma biblioteca para biologia computacional. Ela fornece ferramentas para manipulação de sequências de DNA, acesso a bancos de dados online, interfaces para programas comuns de bioinformática, etc.
+
+Astropy: Esta é uma biblioteca para astronomia. Ela fornece ferramentas para manipulação de dados astronômicos, transformações de sistemas de coordenadas, cálculos astronômicos, etc.
+
+Dash: Esta é uma biblioteca para criar aplicações analíticas da web. É particularmente adequada para construir dashboards de dados e aplicações de visualização de dados.
+
+Plotly: Esta é uma biblioteca para visualização de dados. Ela suporta muitos tipos de gráficos e gráficos interativos.
+
+Numba: Esta é uma biblioteca para melhorar o desempenho do Python. Ela traduz um subconjunto de código Python e NumPy em código de máquina rápido usando LLVM.
+
+PySpark: Esta é a biblioteca Python para Apache Spark, uma plataforma de computação em cluster rápida. Ela fornece uma API para manipulação de dados distribuídos e computação paralela.
